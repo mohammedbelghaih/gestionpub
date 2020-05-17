@@ -1,0 +1,120 @@
+
+.cont{
+    background-image: url("1.jpg");
+    background-size: cover;
+    height: 100%;
+}
+.frm{
+    background:rgba(93, 103, 109, 0.4);
+    height: 100%;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+}
+.btnb{
+    width: 50%;
+    border-radius: 20px;
+    background-color: #e28a72  !important;
+    border-color: #e28a72 !important;
+}
+.frm a{
+    color: white;
+    font-size: 18px;
+}
+
+.frm a:hover{
+    color:#14556b;
+    font-weight: bold;
+}
+
+.insc{
+    background-image: url("2.jpg");
+    background-size: cover;
+    height: 100%;
+}
+.fr{
+    background:rgba(0, 64, 103, 0.4);
+    height: 100%;
+}
+
+.bt{
+    width: 50%;
+    background-color: #e5a448  !important;
+    border-color:  #e5a448 !important;
+}
+.label{
+    color: white;
+    font-size: 20px;
+}
+.ez{
+    height: 100%;
+    background-image: url("1.png");
+    
+}
+
+.carte{
+    width: 70%;
+    margin-bottom:2%; 
+    margin-left: 15%; 
+    margin-top: 5%;
+}
+.carte:hover{
+    box-shadow: 10px 10px 8px 10px #888888;
+}
+
+.cart-text{
+    white-space: nowrap; 
+    width: 540px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+.edit-delete{
+    padding: 6px;
+    border-radius: 8px;
+    color: white;
+}
+#edit{
+    background-color: #2e81b7;
+}
+#delete{
+    background-color: #ce533d;
+}
+#edit:hover{
+    color:black;
+    box-shadow: 3px 3px 2px 1px #888888;
+    text-decoration: none;
+}
+#delete:hover{
+    color:black;
+    box-shadow: 3px 3px 2px 1px #888888;
+    text-decoration: none;
+}
+
+.add-edit{
+    margin-left: 5%; 
+    margin-top: 2%; 
+    width: 40%;
+}
+
+.label1{
+    font-size: 20px;
+}
+
+
+.btnbtn{
+    background-color: #a98651;
+    border-color: #a98651;
+}
+.btnbtn:hover{
+    background-color: #8e734a;
+    border-color: #8e734a;
+}
+
+.navy a{
+    color: white !important;
+}
